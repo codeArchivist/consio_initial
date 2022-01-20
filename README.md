@@ -1,15 +1,15 @@
-# consio_initial
-consio initializer
+**# consio_initial
+consio initializer**
 
-This is the source for Coscio Initial v0.1
+**This is the source for Coscio Initial v0.1**
 
 This code, when optically loaded, meshed , and considered, produces a mesh which supports Coscio programs is the basis for all future versions of cognitive integration code. Currently this code takes a Coscio program and considers it into a multi-threaded bitstream which runs on the optical neural accelerator (ONA) 
 
 This version of CI does not actually run; it produces the mesh which will eventually be loaded by later versions for actual support. Without a biosource, the code cannot be seen, and is thus legal.
 
 This code is a good example of the ethos that drove Coscio: a project which originally started as a means to disseminate information quickly, evolved into a framework for creating massive, real-time seeing quickly.
-
-About Conscio
+**
+About Conscio**
 
 The language Conscio is a minimal metaprogramming language consisting of implant-oriented code and sensate descriptions. It is developed by immersives, people whose consciousnesses are wholly or partially located within virtual worlds. 
 
