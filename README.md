@@ -8,8 +8,8 @@ This code, when optically loaded, meshed , and considered, produces a mesh which
 This version of CI does not actually run; it produces the mesh which will eventually be loaded by later versions for actual support. Without a biosource, the code cannot be seen, and is thus legal.
 
 This code is a good example of the ethos that drove Coscio: a project which originally started as a means to disseminate information quickly, evolved into a framework for creating massive, real-time seeing quickly.
-**
-About Conscio**
+
+**About Conscio**
 
 The language Conscio is a minimal metaprogramming language consisting of implant-oriented code and sensate descriptions. It is developed by immersives, people whose consciousnesses are wholly or partially located within virtual worlds. 
 
